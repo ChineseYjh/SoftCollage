@@ -17,6 +17,8 @@ Image collage task aims to create an informative and visual-aesthetic visual sum
 ## Proposed dataset
 The **AIC** and **ICSS** are available at [here](https://drive.google.com/file/d/1CsUNWLHCciq_0QlHmGoeGAYRcyzavB3z/view?usp=sharing).
 
-## Codes
-Coming soon.
+## Run the codes
+- Create an environment using ```conda create -n softcollage python=3.6 && conda activate softcollage && pip install -r requirements.txt```
+- Download the AIC dataset and set *ICSS_DIR* in ```configs/SC.conf``` as **the path of the AIC dataset**.
+- Run ```sh run.sh```
 
