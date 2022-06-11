@@ -6,11 +6,13 @@ Image collage task aims to create an informative and visual-aesthetic visual sum
 
 ## Citation
 ```
-@InProceedings{yu2022softcollage,
+@InProceedings{Yu_2022_CVPR,
     author    = {Yu, Jiahao and Chen, Li and Zhang, Mingrui and Li, Mading},
     title     = {SoftCollage: A Differentiable Probabilistic Tree Generator for Image Collage},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year      = {2022}
+    month     = {June},
+    year      = {2022},
+    pages     = {3729-3738}
 }
 ```
 
